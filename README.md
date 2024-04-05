@@ -1,13 +1,13 @@
-<h3 align="center">Ambitious College Student | Catalyst for Global Innovation</h3>
+<h3 align="center">Ambitious College Student | Catalyst for Global Innovation</h3><br><br>
 
 <p align="center">
   <em>Passionate college student with a global vision and insatiable curiosity. Committed to spearheading innovation and fostering positive transformation on a global scale through collaborative, impactful initiatives.</em>
-</p>
+</p><br>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
   sehajekam07@gmail.com
-</p>
+</p><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</p>
+</p><br>
 
 🔭 **I’m currently working on developing an AI-based Disaster Response and Recovery System.**
 <p align="justify">
