@@ -4,7 +4,7 @@
   <em>Passionate college student with a global vision and insatiable curiosity. Committed to spearheading innovation and fostering positive transformation on a global scale through collaborative, impactful initiatives.</em>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
   sehajekam07@gmail.com
 </p>
@@ -93,13 +93,8 @@
 - Gesture-based controls for immersive interaction
 - Real-time feedback on quiz responses for enhanced engagement
 - Scalable design to accommodate a vast question bank
-
-**How to Use:**
-bash
-git clone https://github.com/your-username/python-projects.git
-cd python-projects/shlokmudra-quiz-application
-pip install -r requirements.txt
-python shlokmudra_quiz.py
+<br>
+<br>
 
 
 
@@ -126,7 +121,7 @@ Key Features:
 - Intuitive user authentication for secure access
 - Flexible task management across various categories
 - Secure data handling with local file storage for enhanced privacy
-<br><br>
+<br><br><br>
 
 
 <p align="center">
