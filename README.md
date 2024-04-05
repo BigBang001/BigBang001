@@ -83,58 +83,53 @@ bash
 git clone https://github.com/your-username/python-projects.git
 cd python-projects/simple-text-editor
 python text_editor.py
-ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control
+
+
+### ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control
+
+
 <p align="justify">
   <em>Embark on an immersive journey through the Bhagavad Gita with ShlokMudra, my innovative quiz application powered by gesture control. Immerse yourself in the ancient wisdom of the Gita as you navigate through quiz questions with intuitive hand gestures. Experience learning like never before, with real-time feedback and seamless interaction.</em>
 </p>
-Key Features:
 
-Gesture-based controls for immersive interaction
-Real-time feedback on quiz responses for enhanced engagement
-Scalable design to accommodate a vast question bank
-How to Use:
+**Key Features:**
+- Gesture-based controls for immersive interaction
+- Real-time feedback on quiz responses for enhanced engagement
+- Scalable design to accommodate a vast question bank
 
+**How to Use:**
 bash
-Copy code
 git clone https://github.com/your-username/python-projects.git
 cd python-projects/shlokmudra-quiz-application
 pip install -r requirements.txt
 python shlokmudra_quiz.py
-C++ Projects
-Secure Contact Organizer
+
+
+## C++ Projects
+
+### Secure Contact Organizer
+
 <p align="justify">
   <em>Step into the world of secure contact management with my Secure Contact Organizer, crafted using C++ and STL. Seamlessly manage your contacts while ensuring robust security features and customizable organization options. With encrypted authentication and a user-friendly interface, managing your contacts has never been safer or more convenient.</em>
 </p>
-Key Features:
 
-Secure user authentication with advanced encryption techniques
-Customizable grouping for efficient contact organization
-Robust password recovery mechanism for seamless access
-How to Use:
+**Key Features:**
+- Secure user authentication with advanced encryption techniques
+- Customizable grouping for efficient contact organization
+- Robust password recovery mechanism for seamless access
+- 
 
-bash
-Copy code
-git clone https://github.com/your-username/cpp-projects.git
-cd cpp-projects/secure-contact-organizer
-g++ secure_contact_organizer.cpp -o secure_contact_organizer
-./secure_contact_organizer
-TaskGenius
+### TaskGenius
 <p align="justify">
   <em>Unleash your productivity prowess with TaskGenius, my ultimate task management system designed to elevate your efficiency to new heights. Seamlessly prioritize tasks, manage deadlines, and receive real-time notifications with unparalleled ease. With a user-friendly interface and robust features, TaskGenius empowers you to conquer your to-do list and achieve your goals with confidence.</em>
 </p>
+
 Key Features:
+- Intuitive user authentication for secure access
+- Flexible task management across various categories
+- Secure data handling with local file storage for enhanced privacy
 
-Intuitive user authentication for secure access
-Flexible task management across various categories
-Secure data handling with local file storage for enhanced privacy
-How to Use:
 
-bash
-Copy code
-git clone https://github.com/your-username/cpp-projects.git
-cd cpp-projects/task-genius
-g++ task_genius.cpp -o task_genius
-./task_genius
 <p align="center">
   <em>Join me on this thrilling journey of exploration and innovation as we dive into the fascinating world of technology together! Let's push the boundaries, break new ground, and make magic happen. Welcome aboard!</em>
 </p>
