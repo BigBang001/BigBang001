@@ -65,7 +65,7 @@
 <p align="justify">
   <em>Welcome, dear visitors, to my realm of innovation and technology! In this vibrant repository, I invite you to explore a world where creativity knows no bounds. Each project is a labor of love, meticulously crafted to push the boundaries of what's possible. Join me as we embark on an exciting journey through the realms of Python and C++, where every line of code tells a story of ingenuity and passion.</em>
 </p>
-
+<br><br>
 
 
 ## Python Projects
