@@ -39,6 +39,7 @@
 
 
 
+
 <h3 align="center">Welcome to My Project Repository</h3>
 
 <p align="center">
@@ -55,7 +56,8 @@
   - [Secure Contact Organizer](#secure-contact-organizer)
   - [TaskGenius](#taskgenius)
 
----
+
+
 
 <h2 align="center">Introduction</h2>
 
@@ -63,7 +65,7 @@
   <em>Welcome, dear visitors, to my realm of innovation and technology! In this vibrant repository, I invite you to explore a world where creativity knows no bounds. Each project is a labor of love, meticulously crafted to push the boundaries of what's possible. Join me as we embark on an exciting journey through the realms of Python and C++, where every line of code tells a story of ingenuity and passion.</em>
 </p>
 
----
+
 
 ## Python Projects
 
@@ -77,12 +79,6 @@
 - Intuitive user interface with customizable themes
 - Essential text editing functionalities for effortless content creation
 - Seamless integration with font selection and alignment options
-
-**How to Use:**
-bash
-git clone https://github.com/your-username/python-projects.git
-cd python-projects/simple-text-editor
-python text_editor.py
 
 
 ### ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control
@@ -105,6 +101,7 @@ pip install -r requirements.txt
 python shlokmudra_quiz.py
 
 
+
 ## C++ Projects
 
 ### Secure Contact Organizer
@@ -117,7 +114,7 @@ python shlokmudra_quiz.py
 - Secure user authentication with advanced encryption techniques
 - Customizable grouping for efficient contact organization
 - Robust password recovery mechanism for seamless access
-- 
+ 
 
 ### TaskGenius
 <p align="justify">
@@ -128,6 +125,8 @@ Key Features:
 - Intuitive user authentication for secure access
 - Flexible task management across various categories
 - Secure data handling with local file storage for enhanced privacy
+
+
 
 
 <p align="center">
