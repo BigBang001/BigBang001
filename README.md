@@ -36,7 +36,8 @@
   It perfectly encapsulates Google's ethos of innovation and curiosity-driven exploration. Similarly, I'm always eager to explore new ideas and technologies, constantly seeking out nerdy and interesting facts to inspire my work. Let's collaborate and create something truly extraordinary!
 </p>
 
-
+<br>
+<br>
 
 
 
@@ -125,8 +126,7 @@ Key Features:
 - Intuitive user authentication for secure access
 - Flexible task management across various categories
 - Secure data handling with local file storage for enhanced privacy
-
-
+<br><br>
 
 
 <p align="center">
