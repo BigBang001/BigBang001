@@ -45,7 +45,7 @@
 
 <p align="center">
   <em>Greetings and welcome to my meticulously curated project repository! Here, I am excited to present a diverse collection of innovative projects crafted with passion and precision. Whether you're a seasoned developer seeking inspiration or a curious enthusiast eager to explore new horizons, there's something here for everyone. Join me on this exhilarating journey of discovery and creativity!</em>
-</p>
+</p><br>
 
 <h3 align="center">Table of Contents</h3>
 
