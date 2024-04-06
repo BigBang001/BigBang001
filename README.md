@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</p><br><b></b>
+</p><br><br></br>
 
 🔭 **I’m currently working on developing an AI-based Disaster Response and Recovery System.**
 <p align="justify">
@@ -35,7 +35,7 @@
 <p align="justify">
   It perfectly encapsulates Google's ethos of innovation and curiosity-driven exploration. Similarly, I'm always eager to explore new ideas and technologies, constantly seeking out nerdy and interesting facts to inspire my work. Let's collaborate and create something truly extraordinary!
 </p>
-
+<br>
 <br>
 <br>
 
