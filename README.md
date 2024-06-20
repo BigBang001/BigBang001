@@ -90,6 +90,21 @@
 <br>
 
 
+### Fake Image Detection Using Multimodal Techniques 
+
+
+<p align="justify">
+  <em>Discover the forefront of image authenticity verification with our Multimodal Fake Image Detection system. Designed to combat the rising challenge of manipulated visual content, this project leverages a sophisticated blend of machine learning and deep learning techniques. By analyzing image content, evaluating associated textual information, and scrutinizing metadata, our system offers a comprehensive approach to discerning between genuine and altered images. Experience a robust solution that not only enhances detection accuracy but also adapts seamlessly to diverse datasets and evolving manipulation techniques.</em>
+</p>
+
+**Key Features:**
+- Advanced multimodal approach combining image analysis, text evaluation, and metadata examination.
+- Seamless integration of machine learning models for precise detection of manipulated images.
+- Scalable design to handle diverse datasets and evolving image manipulation techniques.
+<br>
+<br>
+
+
 
 ## C++ Projects
 
