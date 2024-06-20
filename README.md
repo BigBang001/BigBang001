@@ -86,8 +86,6 @@
 - Gesture-based controls for immersive interaction
 - Real-time feedback on quiz responses for enhanced engagement
 - Scalable design to accommodate a vast question bank
-<br>
-<br>
 
 
 ### Fake Image Detection Using Multimodal Techniques 
