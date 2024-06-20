@@ -45,7 +45,7 @@
 - [Python Projects](#python-projects)
   - [Simple Text Editor](#simple-text-editor)
   - [ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control](#shlokmudra-bhagavad-gita-quiz-application-using-gesture-control)
-  - [Fake Image Detection using Multimodal Techniques](#fake-image-detection-using-multimodel-techniques)]
+  - [Fake Image Detection using Multimodal Techniques](#fake-image-detection-using-multimodel-techniques)
 - [C++ Projects](#c-projects)
   - [Secure Contact Organizer](#secure-contact-organizer)
   - [TaskGenius](#taskgenius)
