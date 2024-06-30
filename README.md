@@ -10,7 +10,7 @@
 
 
 <h3 align="center">Future Projects</h3>
-<p align="center">
+
 🔭 **I’m currently working on developing an AI-based Disaster Response and Recovery System.**
 
 This innovative system utilizes advanced machine learning algorithms to analyze real-time data and predict disaster scenarios, facilitating swift and effective response strategies. By harnessing the power of AI, we aim to enhance emergency preparedness and minimize the impact of natural disasters on communities worldwide.
@@ -24,7 +24,7 @@ Exploring cutting-edge advancements in AI technology fuels my passion for innova
 ⚡ **Fun fact: Did you know that Google's first-ever tweet was "I'm feeling lucky"?**
 
 It perfectly encapsulates Google's ethos of innovation and curiosity-driven exploration. Similarly, I'm always eager to explore new ideas and technologies, constantly seeking out nerdy and interesting facts to inspire my work. Let's collaborate and create something truly extraordinary!
-</p>
+
 <br>
 <br>
 <br>
