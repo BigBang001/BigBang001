@@ -1,8 +1,8 @@
-<h3 align="center">Ambitious College Student | Catalyst for Global Innovation</h3><br><br>
+<h2 align="center">Ambitious College Student | Catalyst for Global Innovation</h2><br><br>
 
 <p align="center">
   <em>Passionate college student with a global vision and insatiable curiosity. Committed to spearheading innovation and fostering positive transformation on a global scale through collaborative, impactful initiatives.</em>
-</p><br>
+</p><br><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
