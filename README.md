@@ -10,20 +10,20 @@
 
 
 <h3 align="center">Future Projects</h3>
-
-🔭 **I’m currently working on developing an AI-based Disaster Response and Recovery System.**
 <p align="center">
-  This innovative system utilizes advanced machine learning algorithms to analyze real-time data and predict disaster scenarios, facilitating swift and effective response strategies. By harnessing the power of AI, we aim to enhance emergency preparedness and minimize the impact of natural disasters on communities worldwide.
-</p>
+🔭 **I’m currently working on developing an AI-based Disaster Response and Recovery System.**
+
+This innovative system utilizes advanced machine learning algorithms to analyze real-time data and predict disaster scenarios, facilitating swift and effective response strategies. By harnessing the power of AI, we aim to enhance emergency preparedness and minimize the impact of natural disasters on communities worldwide.
+
 
 🌱 **I’m currently learning about deep learning techniques and reinforcement learning algorithms to further enhance the capabilities of the Disaster Response and Recovery System.**
-<p align="center">
-  Exploring cutting-edge advancements in AI technology fuels my passion for innovation and drives me to push the boundaries of what's possible in disaster management.
-</p>
+
+Exploring cutting-edge advancements in AI technology fuels my passion for innovation and drives me to push the boundaries of what's possible in disaster management.
+
 
 ⚡ **Fun fact: Did you know that Google's first-ever tweet was "I'm feeling lucky"?**
-<p align="center">
-  It perfectly encapsulates Google's ethos of innovation and curiosity-driven exploration. Similarly, I'm always eager to explore new ideas and technologies, constantly seeking out nerdy and interesting facts to inspire my work. Let's collaborate and create something truly extraordinary!
+
+It perfectly encapsulates Google's ethos of innovation and curiosity-driven exploration. Similarly, I'm always eager to explore new ideas and technologies, constantly seeking out nerdy and interesting facts to inspire my work. Let's collaborate and create something truly extraordinary!
 </p>
 <br>
 <br>
