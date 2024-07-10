@@ -44,6 +44,7 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
   - [Simple Text Editor](#simple-text-editor)
   - [ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control](#shlokmudra-bhagavad-gita-quiz-application-using-gesture-control)
   - [Fake Image Detection using Multimodal Techniques](#fake-image-detection-using-multimodel-techniques)
+  - [MindTrack: Mind Health Tracking Application](#mindtrack-mind-health-tracking-application)
 - [C++ Projects](#c-projects)
   - [Secure Contact Organizer](#secure-contact-organizer)
   - [TaskGenius](#taskgenius)
@@ -97,6 +98,20 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
 - Advanced multimodal approach combining image analysis, text evaluation, and metadata examination.
 - Seamless integration of machine learning models for precise detection of manipulated images.
 - Scalable design to handle diverse datasets and evolving image manipulation techniques.
+
+
+### MindTrack: Mental Health Tracking Application
+
+<p align="justify">
+  <em>Track your mental health effortlessly with MindTrack, a web application designed for users with ADHD and neuro-divergences. Leveraging AI and an intuitive interface, MindTrack simplifies daily mood and symptom monitoring to empower users with insightful data analysis and engagement.</em>
+</p>  
+
+#### Key Features
+
+- Receive daily survey links via text message to track mood, symptoms, weight, sleep, and thoughts.  
+- Utilizes TensorFlow for personalized insights and trend recognition based on user inputs.  
+- Planned features include a homepage, user accounts, medication tracking, and a visual dashboard.  
+- Accessible interface tailored for ease of use, catering to diverse user needs.
 <br>
 <br>
 
