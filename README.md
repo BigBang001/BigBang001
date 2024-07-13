@@ -45,6 +45,7 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
   - [ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control](#shlokmudra-bhagavad-gita-quiz-application-using-gesture-control)
   - [Fake Image Detection using Multimodal Techniques](#fake-image-detection-using-multimodel-techniques)
   - [MindTrack: Mind Health Tracking Application](#mindtrack-mind-health-tracking-application)
+  - [QuantumHabits: Habits Tracking Application](#quantumhabits-habits-tracking-application)
 - [C++ Projects](#c-projects)
   - [Secure Contact Organizer](#secure-contact-organizer)
   - [TaskGenius](#taskgenius)
