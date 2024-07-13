@@ -113,6 +113,20 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
 - Utilizes TensorFlow for personalized insights and trend recognition based on user inputs.  
 - Planned features include a homepage, user accounts, medication tracking, and a visual dashboard.  
 - Accessible interface tailored for ease of use, catering to diverse user needs.
+
+
+### QuantumHabits: Personal Growth Through Consistent Action
+
+<p align="justify">
+ <em>QuantumHabits is a powerful tool for achieving personal growth through daily habits and incremental improvements. This web application integrates AI-driven insights with intuitive features to empower users in their journey towards self-improvement.</em>
+</p>
+
+### Key Features:
+
+- Goal Setting and Tracking: Define and monitor goals effortlessly, with reminders to stay on track.
+- AI-Powered Recommendations: Utilizes decision tree models for tailored suggestions based on user habits and preferences.
+- Gamification Elements: Earn badges and rewards for completing milestones, making habit-building enjoyable and motivating.
+- Visualization Tools: Visualize progress with clear charts and graphs, enhancing accountability and motivation. 
 <br>
 <br>
 
