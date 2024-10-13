@@ -1,7 +1,7 @@
-<h2 align="center">Ambitious College Student | Catalyst for Global Innovation</h2><br>
+<h2 align="center">Driven by Curiosity, Building with Passion</h2><br>
 
 <p align="center">
-  <em>Passionate college student with a global vision and insatiable curiosity. Committed to spearheading innovation and fostering positive transformation on a global scale through collaborative, impactful initiatives.</em>
+  <em>Driven by a relentless curiosity, I focus on creating scalable, efficient, and impactful software that addresses real-world needs. My goal is to empower users through technology, transforming ideas into tools for progress.</em>
 </p><br><br>
 
 
