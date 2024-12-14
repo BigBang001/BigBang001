@@ -50,7 +50,7 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
   - [Space Weather Dashboard](#space-weather-dashboard)
 - [C++ Projects](#c-projects)
   - [Secure Contact Organizer](#secure-contact-organizer)
-  - [TaskGenius](#taskgenius)
+  - [TaskMaster](#taskmaster)
 
 
 
@@ -177,9 +177,9 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
 - Robust password recovery mechanism for seamless access
  
 
-### TaskGenius
+### TaskMaster
 <p align="justify">
-  <em>Unleash your productivity prowess with TaskGenius, my ultimate task management system designed to elevate your efficiency to new heights. Seamlessly prioritize tasks, manage deadlines, and receive real-time notifications with unparalleled ease. With a user-friendly interface and robust features, TaskGenius empowers you to conquer your to-do list and achieve your goals with confidence.</em>
+  <em>Unleash your productivity prowess with TaskMaster, my ultimate task management system designed to elevate your efficiency to new heights. Seamlessly prioritize tasks, manage deadlines, and receive real-time notifications with unparalleled ease. With a user-friendly interface and robust features, TaskMaster empowers you to conquer your to-do list and achieve your goals with confidence.</em>
 </p>
 
 Key Features:
