@@ -46,6 +46,8 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
   - [Fake Image Detection using Multimodal Techniques](#fake-image-detection-using-multimodel-techniques)
   - [MindTrack: Mind Health Tracking Application](#mindtrack-mind-health-tracking-application)
   - [QuantumHabits: Personal Growth Through Consistent Action](#quantumhabits-personal-growth-through-consistent-action)
+  - [Interplanetary Dust Tracker](#interplanetary-dust-tracker)
+  - [Space Weather Dashboard](#space-weather-dashboard)
 - [C++ Projects](#c-projects)
   - [Secure Contact Organizer](#secure-contact-organizer)
   - [TaskGenius](#taskgenius)
@@ -121,12 +123,41 @@ It perfectly encapsulates Google's ethos of innovation and curiosity-driven expl
  <em>QuantumHabits is a powerful tool for achieving personal growth through daily habits and incremental improvements. This web application integrates AI-driven insights with intuitive features to empower users in their journey towards self-improvement.</em>
 </p>
 
-### Key Features:
-
+**Key Features:**
 - Goal Setting and Tracking: Define and monitor goals effortlessly, with reminders to stay on track.
 - AI-Powered Recommendations: Utilizes decision tree models for tailored suggestions based on user habits and preferences.
 - Gamification Elements: Earn badges and rewards for completing milestones, making habit-building enjoyable and motivating.
-- Visualization Tools: Visualize progress with clear charts and graphs, enhancing accountability and motivation. 
+- Visualization Tools: Visualize progress with clear charts and graphs, enhancing accountability and motivation.
+
+
+### Interplanetary Dust Tracker
+
+<p align="justify">
+  <em> It is a pioneering Python project designed to simulate and study the intricate dance of space dust as it navigates the vast reaches of our solar system.</em>
+</p>  
+
+**Key Features:**
+- Simulation Engine: Simulate the movement and collision dynamics of space dust particles.
+- Interactive Visuals: Visualize the paths of dust particles and their gravitational interactions with planets.
+- Custom Data Integration: Import real astronomical data and simulate different celestial conditions.
+- Predictive Analysis: Use data models to predict the behavior of space dust in hypothetical scenarios.
+- Real-Time Interaction: Engage with simulations and adjust variables on the fly to see how space dust reacts in new conditions.
+- Educational Mode: Learn about the science behind interplanetary dust through integrated guides and fun facts.
+  
+
+
+### Space Weather Dashboard
+
+<p align="justify">
+  <em>It is a powerful, Python-powered application built to give you a real-time window into solar activity, from flares to geomagnetic storms. It’s your one-stop guide to the cosmos, designed for researchers, educators, and space enthusiasts alike.</em>
+</p>  
+
+#### Key Features
+
+- Live Solar Data Integration
+- Predictive Modeling with TensorFlow
+- Interactive Visualizations
+- Detailed Solar Image Analysis
 <br>
 <br>
 
