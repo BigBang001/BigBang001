@@ -1,160 +1,165 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+<svg viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#010812"/>
-      <stop offset="1" stop-color="#030f1e"/>
-    </linearGradient>
-
     <!-- Nebula blobs -->
-    <radialGradient id="neb1" cx="20%" cy="20%" r="60%">
-      <stop offset="0" stop-color="#00d4ff" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    <radialGradient id="nb1" cx="0%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#00b4e6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="neb2" cx="85%" cy="85%" r="60%">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    <radialGradient id="nb2" cx="100%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#7832e6" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="neb3" cx="55%" cy="45%" r="55%">
-      <stop offset="0" stop-color="#e879f9" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#e879f9" stop-opacity="0"/>
+    <radialGradient id="nb3" cx="55%" cy="45%" r="30%">
+      <stop offset="0%" stop-color="#dc64f0" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
     </radialGradient>
-
-    <!-- Grid -->
-    <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse">
-      <path d="M 45 0 L 0 0 0 45" fill="none" stroke="#00d4ff" stroke-opacity="0.08" stroke-width="1"/>
-    </pattern>
-
-    <!-- Scanlines -->
-    <pattern id="scan" width="1" height="4" patternUnits="userSpaceOnUse">
-      <rect width="1" height="2" fill="transparent"/>
-      <rect y="2" width="1" height="2" fill="#00d4ff" opacity="0.03"/>
-    </pattern>
 
     <!-- Name gradient -->
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#00d4ff"/>
-      <stop offset="0.45" stop-color="#a78bfa"/>
-      <stop offset="1" stop-color="#e879f9"/>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="45%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+
+    <!-- Top line gradient -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#010812" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#00d4ff" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#7c3aed" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#e879f9" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lineGradB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#010812" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Chip gradients -->
+    <linearGradient id="chipC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="chipV" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="chipP" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#e879f9" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="chipG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.04"/>
     </linearGradient>
 
     <!-- Glows -->
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feColorMatrix in="b" type="matrix"
-        values="1 0 0 0 0
-                0 1 0 0 0
-                0 0 1 0 0
-                0 0 0 0.85 0"/>
-      <feMerge>
-        <feMergeNode/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-    <style>
-      /* Keep to safe fonts for GitHub */
-      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-      .sans { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
-
-      .chipText { font-size: 10px; letter-spacing: 2px; }
-      .smallCaps { font-size: 9px; letter-spacing: 4.5px; text-transform: uppercase; }
-
-      /* Simple SVG animation usually OK on GitHub, but keep subtle */
-      @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
-      .topLine { animation: pulse 3.5s ease-in-out infinite; }
-
-      @keyframes tw { 0%,100%{ opacity: .25; } 50%{ opacity: .85; } }
-      .star { animation: tw var(--d,3s) ease-in-out infinite; }
-    </style>
   </defs>
 
-  <!-- Base -->
-  <rect width="900" height="200" fill="url(#bg)"/>
+  <!-- Background -->
+  <rect width="900" height="200" fill="#010812"/>
+  <rect width="900" height="200" fill="url(#nb1)"/>
+  <rect width="900" height="200" fill="url(#nb2)"/>
+  <rect width="900" height="200" fill="url(#nb3)"/>
 
-  <!-- Nebulas -->
-  <rect width="900" height="200" fill="url(#neb1)"/>
-  <rect width="900" height="200" fill="url(#neb2)"/>
-  <rect width="900" height="200" fill="url(#neb3)"/>
+  <!-- Top line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="199" width="900" height="1" fill="url(#lineGradB)"/>
 
-  <!-- Grid + scanlines -->
-  <rect width="900" height="200" fill="url(#grid)"/>
-  <rect width="900" height="200" fill="url(#scan)" opacity="0.9"/>
-
-  <!-- Top accent line -->
-  <rect class="topLine" x="0" y="0" width="900" height="2" fill="url(#nameGrad)" opacity="0.8"/>
-  <rect x="0" y="199" width="900" height="1" fill="#00d4ff" opacity="0.18"/>
-
-  <!-- Corner brackets -->
-  <g fill="none" stroke="#00d4ff" stroke-opacity="0.45" stroke-width="2" filter="url(#softGlow)">
-    <path d="M12 30 V10 H32"/>
-    <path d="M868 30 V10 H848"/>
-    <path d="M12 170 V190 H32"/>
-    <path d="M868 170 V190 H848"/>
-  </g>
-
-  <!-- Stars (static positions, subtle twinkle) -->
-  <g fill="#ffffff" opacity="0.9">
-    <circle class="star" style="--d:2.2s" cx="70"  cy="34" r="1.2"/>
-    <circle class="star" style="--d:3.3s" cx="140" cy="62" r="1.6"/>
-    <circle class="star" style="--d:2.8s" cx="240" cy="26" r="1.1"/>
-    <circle class="star" style="--d:3.6s" cx="330" cy="82" r="1.4"/>
-    <circle class="star" style="--d:2.4s" cx="415" cy="45" r="1.1"/>
-    <circle class="star" style="--d:4.1s" cx="520" cy="98" r="1.7"/>
-    <circle class="star" style="--d:2.7s" cx="610" cy="30" r="1.1"/>
-    <circle class="star" style="--d:3.2s" cx="690" cy="132" r="1.4"/>
-    <circle class="star" style="--d:2.9s" cx="760" cy="66" r="1.2"/>
-    <circle class="star" style="--d:3.9s" cx="820" cy="38" r="1.5"/>
-  </g>
-
-  <!-- Header text -->
-  <text x="450" y="62" text-anchor="middle" class="mono smallCaps" fill="#00d4ff" opacity="0.35">
-    // neural interface v3.0 — online
-  </text>
-
-  <text x="450" y="112" text-anchor="middle"
-        class="sans" font-size="52" font-weight="900" letter-spacing="6"
-        fill="url(#nameGrad)" filter="url(#textGlow)">
+  <!-- Name -->
+  <text x="450" y="112" text-anchor="middle" font-family="Courier,monospace" font-size="42" font-weight="700" letter-spacing="8" fill="url(#nameGrad)" filter="url(#glowStrong)" id="userName">
     BigBang001
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Role chips -->
-  <g class="mono" text-anchor="middle">
-    <!-- chip helper: rounded rect + text -->
-    <g transform="translate(268 132)">
-      <rect x="-52" y="0" rx="6" ry="6" width="104" height="22" fill="#00d4ff" fill-opacity="0.06" stroke="#00d4ff" stroke-opacity="0.28"/>
-      <text x="0" y="15" class="chipText" fill="#00d4ff" fill-opacity="0.9">PYTHON</text>
-    </g>
-
-    <g transform="translate(388 132)">
-      <rect x="-58" y="0" rx="6" ry="6" width="116" height="22" fill="#a78bfa" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.28"/>
-      <text x="0" y="15" class="chipText" fill="#a78bfa" fill-opacity="0.95">BACKEND</text>
-    </g>
-
-    <g transform="translate(522 132)">
-      <rect x="-70" y="0" rx="6" ry="6" width="140" height="22" fill="#e879f9" fill-opacity="0.06" stroke="#e879f9" stroke-opacity="0.28"/>
-      <text x="0" y="15" class="chipText" fill="#e879f9" fill-opacity="0.95">FULL-STACK</text>
-    </g>
-
-    <g transform="translate(662 132)">
-      <rect x="-76" y="0" rx="6" ry="6" width="152" height="22" fill="#10b981" fill-opacity="0.06" stroke="#10b981" stroke-opacity="0.28"/>
-      <text x="0" y="15" class="chipText" fill="#10b981" fill-opacity="0.95">AI ENGINEER</text>
-    </g>
+  <!-- Dynamic centered role chips -->
+  <g font-family="Courier,monospace" font-size="9" text-anchor="middle" letter-spacing="2" id="chipsGroup">
+    <!-- Example chips -->
+    <g data-fill="#00d4ff" data-gradient="chipC" data-text="PYTHON"/>
+    <g data-fill="#a78bfa" data-gradient="chipV" data-text="BACKEND"/>
+    <g data-fill="#e879f9" data-gradient="chipP" data-text="FULL-STACK"/>
+    <g data-fill="#10b981" data-gradient="chipG" data-text="AI ENGINEER"/>
   </g>
 
-  <!-- Status line -->
-  <g class="mono" text-anchor="middle">
-    <circle cx="368" cy="170" r="4" fill="#00d4ff" opacity="0.95" filter="url(#softGlow)"/>
-    <text x="520" y="174" font-size="11" letter-spacing="3" fill="#00d4ff" opacity="0.35">
-      SYSTEM ONLINE  ·  OPEN TO OPPORTUNITIES
-    </text>
-  </g>
+  <!-- Live dot and status -->
+  <circle cx="285" cy="168" r="3" fill="#00d4ff">
+    <animate attributeName="r" values="2.5;3.5;2.5" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.6;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="285" cy="168" r="6" fill="#00d4ff" fill-opacity="0">
+    <animate attributeName="r" values="4;8;4" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.2;0;0.2" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="300" y="172" font-family="Courier,monospace" font-size="9" letter-spacing="3" fill="#00d4ff" fill-opacity="0.3">
+    SYSTEM ONLINE · OPEN TO OPPORTUNITIES
+    <animate attributeName="fill-opacity" values="0.25;0.4;0.25" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <script type="application/ecmascript"><![CDATA[
+    // Dynamically position role chips
+    const chipsGroup = document.getElementById('chipsGroup');
+    const centerX = 450; // center of SVG
+    const y = 140;       // vertical position
+    const padding = 8;   // horizontal padding between chips and text
+    const chipHeight = 20;
+
+    let chips = Array.from(chipsGroup.children);
+    chips.forEach(chip => {
+      const text = chip.dataset.text;
+      const fill = chip.dataset.fill;
+      const gradient = chip.dataset.gradient;
+
+      // Measure text width using temporary SVG text element
+      const tempText = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      tempText.setAttribute('font-family','Courier,monospace');
+      tempText.setAttribute('font-size','9');
+      tempText.textContent = text;
+      chipsGroup.appendChild(tempText);
+      const width = tempText.getBBox().width + 2*padding;
+      chipsGroup.removeChild(tempText);
+
+      // Store width for positioning
+      chip.dataset.width = width;
+    });
+
+    // Compute total width
+    const totalWidth = chips.reduce((sum, chip) => sum + parseFloat(chip.dataset.width) + 4, -4); // 4px gap
+    let startX = centerX - totalWidth/2;
+
+    // Append rect + text for each chip dynamically
+    chips.forEach(chip => {
+      const width = parseFloat(chip.dataset.width);
+      const rect = document.createElementNS('http://www.w3.org/2000/svg','rect');
+      rect.setAttribute('x', startX);
+      rect.setAttribute('y', y-12);
+      rect.setAttribute('width', width);
+      rect.setAttribute('height', chipHeight);
+      rect.setAttribute('rx', 3);
+      rect.setAttribute('fill', `url(#${chip.dataset.gradient})`);
+      rect.setAttribute('stroke', chip.dataset.fill);
+      rect.setAttribute('stroke-opacity', 0.25);
+      rect.setAttribute('stroke-width', 1);
+      chipsGroup.appendChild(rect);
+
+      const textEl = document.createElementNS('http://www.w3.org/2000/svg','text');
+      textEl.setAttribute('x', startX + width/2);
+      textEl.setAttribute('y', y);
+      textEl.setAttribute('fill', chip.dataset.fill);
+      textEl.setAttribute('fill-opacity', 0.9);
+      textEl.textContent = chip.dataset.text;
+      chipsGroup.appendChild(textEl);
+
+      startX += width + 4;
+    });
+  ]]></script>
 </svg>
