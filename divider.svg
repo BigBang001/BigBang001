@@ -1,0 +1,21 @@
+<svg fill="none" viewBox="0 0 900 28" width="900" height="28" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  .r{width:900px;height:28px;background:#010812;display:flex;align-items:center;gap:12px;padding:0 18px;font-family:'Courier New',monospace;overflow:hidden;}
+  .ln{flex:1;height:1px;background:linear-gradient(90deg,transparent,rgba(0,212,255,0.25),transparent);animation:lp 3.5s ease-in-out infinite;}
+  .ln2{background:linear-gradient(90deg,transparent,rgba(0,212,255,0.25),transparent);}
+  @keyframes lp{0%,100%{opacity:.45}50%{opacity:1}}
+  .lb{font-size:8.5px;letter-spacing:3.5px;color:rgba(0,212,255,.45);text-transform:uppercase;white-space:nowrap;animation:gl 3.5s ease-in-out infinite;}
+  @keyframes gl{0%,100%{color:rgba(0,212,255,.4)}50%{color:rgba(0,212,255,.8);text-shadow:0 0 8px rgba(0,212,255,.4)}}
+  .dm{color:rgba(124,58,237,.5);margin:0 4px;font-size:7px;}
+</style>
+<div class="r">
+  <div class="ln"></div>
+  <span class="dm">◈</span><span class="lb">SECTION</span><span class="dm">◈</span>
+  <div class="ln ln2"></div>
+</div>
+</div>
+</foreignObject>
+</svg>
