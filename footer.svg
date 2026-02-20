@@ -1,38 +1,113 @@
 <svg fill="none" viewBox="0 0 900 90" width="900" height="90" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
-  *{margin:0;padding:0;box-sizing:border-box;}
-  .r{width:900px;height:90px;background:#010812;overflow:hidden;position:relative;font-family:'Courier New',monospace;}
-  .nb{position:absolute;border-radius:50%;filter:blur(55px);pointer-events:none;}
-  .nb1{width:300px;height:300px;background:rgba(0,180,230,1);opacity:0.06;bottom:-100px;left:50%;transform:translateX(-50%);animation:nbf 12s ease-in-out infinite alternate;}
-  .nb2{width:200px;height:200px;background:rgba(120,50,230,1);opacity:0.04;bottom:-60px;left:20%;animation:nbf 16s ease-in-out infinite alternate-reverse;}
-  .nb3{width:180px;height:180px;background:rgba(220,100,240,1);opacity:0.035;bottom:-50px;right:18%;animation:nbf 14s ease-in-out infinite alternate;}
-  @keyframes nbf{from{transform:translateX(-50%)scale(1)}to{transform:translateX(-50%)scale(1.1)translateY(-10px)}}
-  .lt{position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,rgba(0,212,255,0.35),rgba(124,58,237,0.4),rgba(232,121,249,0.35),transparent);animation:ls 4s ease-in-out infinite;}
-  @keyframes ls{0%,100%{opacity:.5}50%{opacity:1}}
-  .ct{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;}
-  .tt{font-size:15px;letter-spacing:5px;color:#dde8f5;text-transform:uppercase;font-family:'Courier New',monospace;animation:gp 3s ease-in-out infinite;}
-  @keyframes gp{0%,100%{text-shadow:0 0 8px rgba(0,212,255,.3)}50%{text-shadow:0 0 18px rgba(0,212,255,.7),0 0 35px rgba(124,58,237,.3)}}
-  .sb{font-size:9px;letter-spacing:3px;color:rgba(139,163,189,.45);text-transform:uppercase;}
-  .sb em{color:rgba(0,212,255,.45);font-style:normal;margin:0 5px;}
-  .d1,.d2,.d3{display:inline-block;animation:db 1.4s ease-in-out infinite;}
-  .d2{animation-delay:.18s}.d3{animation-delay:.36s}
-  @keyframes db{0%,80%,100%{opacity:.2}40%{opacity:1}}
-  .bk{position:absolute;width:16px;height:16px;border-color:rgba(0,212,255,.25);border-style:solid;}
-  .tl{top:8px;left:12px;border-width:1px 0 0 1px;animation:bkg 5s ease-in-out infinite;}
-  .tr{top:8px;right:12px;border-width:1px 1px 0 0;animation:bkg 5s ease-in-out infinite .8s;}
-  @keyframes bkg{0%,100%{border-color:rgba(0,212,255,.2)}50%{border-color:rgba(0,212,255,.6)}}
-</style>
-<div class="r">
-  <div class="nb nb1"></div><div class="nb nb2"></div><div class="nb nb3"></div>
-  <div class="lt"></div>
-  <div class="bk tl"></div><div class="bk tr"></div>
-  <div class="ct">
-    <div class="tt">[ OPEN TO OPPORTUNITIES ]</div>
-    <div class="sb">Backend<em>·</em>Full-Stack<em>·</em>AI Roles &nbsp;<span class="d1">●</span><span class="d2">●</span><span class="d3">●</span>&nbsp; Let's connect</div>
-  </div>
-</div>
-</div>
-</foreignObject>
+  <defs>
+    <!-- Nebula blobs -->
+    <radialGradient id="nbf1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nbf2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nbf3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Line gradient -->
+    <linearGradient id="lineGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#010812" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#00d4ff" stop-opacity="0.4"/>
+      <stop offset="55%" stop-color="#7c3aed" stop-opacity="0.5"/>
+      <stop offset="80%" stop-color="#e879f9" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Particle colors -->
+    <radialGradient id="p1Grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="p2Grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="p3Grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e879f9" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="p4Grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#010812" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="90" fill="#010812"/>
+
+  <!-- Nebula blobs -->
+  <circle cx="400" cy="40" r="140" fill="url(#nbf1)">
+    <animate attributeName="cx" values="400;420;400" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="40;35;40" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="30" r="100" fill="url(#nbf2)">
+    <animate attributeName="cx" values="180;200;180" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;25;30" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="35" r="90" fill="url(#nbf3)">
+    <animate attributeName="cx" values="750;770;750" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="35;30;35" dur="14s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Top glowing line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#lineGradF)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner brackets -->
+  <g stroke="#00d4ff" stroke-width="1.5" stroke-opacity="0.4" fill="none">
+    <path d="M8,4 L8,20 M8,4 L24,4">
+      <animate attributeName="stroke-opacity" values="0.3;0.75;0.3" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M892,4 L876,4 M892,4 L892,20">
+      <animate attributeName="stroke-opacity" values="0.3;0.75;0.3" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Drifting particles -->
+  <circle cx="90" cy="60" r="2" fill="url(#p1Grad)" filter="url(#glow)">
+    <animate attributeName="cx" values="90;100;85;90" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;55;63;60" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="270" cy="40" r="2" fill="url(#p2Grad)" filter="url(#glow)">
+    <animate attributeName="cx" values="270;280;260;270" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="40;35;45;40" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="50" r="2" fill="url(#p3Grad)" filter="url(#glow)">
+    <animate attributeName="cx" values="540;550;530;540" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;45;55;50" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="720" cy="55" r="2" fill="url(#p4Grad)" filter="url(#glow)">
+    <animate attributeName="cx" values="720;730;710;720" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="55;50;60;55" dur="16s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Center text -->
+  <text x="450" y="30" text-anchor="middle" font-family="Courier,monospace" font-size="14" letter-spacing="4" fill="#dde8f5">
+    [ OPEN TO OPPORTUNITIES ]
+    <animate attributeName="fill-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="55" text-anchor="middle" font-family="Courier,monospace" font-size="9" letter-spacing="3" fill="rgba(139,163,189,0.45)">
+    Backend · Full-Stack · AI Roles ● ● ●  · Let's connect
+    <animate attributeName="fill-opacity" values="0.35;0.55;0.35" dur="3.5s" repeatCount="indefinite"/>
+  </text>
 </svg>
