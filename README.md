@@ -1,214 +1,267 @@
-<h2 align="center">Driven by Curiosity, Building with Passion</h2><br>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              NEURAL INTERFACE v3.0 — PROFILE.MD                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <em>Driven by a relentless curiosity, I focus on creating scalable, efficient, and impactful software that addresses real-world needs. My goal is to empower users through technology, transforming ideas into tools for progress.</em>
-</p><br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020510,30:041428,70:061d3a,100:00d4ff&height=160&section=header&text=%5B%20YOUR_NAME%20%5D&fontSize=40&fontColor=00d4ff&animation=blinking&fontAlignY=50&desc=Python%20%E2%80%A2%20Backend%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Engineer&descColor=8b9fbd&descSize=13&descAlignY=73&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><br><br>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=700&color=00D4FF&center=true&vCenter=true&multiline=true&width=680&height=85&lines=↳+Building+scalable+backends+%26+AI-integrated+systems;↳+Python+%7C+Django+%7C+React+%7C+TypeScript+%7C+C%2B%2B;↳+From+concept+to+production+—+end+to+end." alt="Typing SVG"/>
 
-<h3 align="center">Future Projects</h3>
+<br/><br/>
 
-🔭 **I’m currently working on developing an AI-based Disaster Response and Recovery System.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020510?style=flat-square&logo=linkedin&logoColor=00d4ff)](YOUR_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-020510?style=flat-square&logo=vercel&logoColor=8b5cf6)](YOUR_URL)
+[![Email](https://img.shields.io/badge/Email-020510?style=flat-square&logo=gmail&logoColor=e879f9)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-020510?style=flat-square&logo=github&logoColor=00d4ff)](YOUR_URL)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=BigBang001&label=profile+views&color=00d4ff&style=flat-square)
 
-This innovative system utilizes advanced machine learning algorithms to analyze real-time data and predict disaster scenarios, facilitating swift and effective response strategies. By harnessing the power of AI, we aim to enhance emergency preparedness and minimize the impact of natural disasters on communities worldwide.
+</div>
 
+<br/>
 
-🌱 **I’m currently learning about deep learning techniques and reinforcement learning algorithms to further enhance the capabilities of the Disaster Response and Recovery System.**
+---
 
-Exploring cutting-edge advancements in AI technology fuels my passion for innovation and drives me to push the boundaries of what's possible in disaster management.
+<!-- ── ENGINEER PROFILE ────────────────────────────────────────────── -->
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="54%" valign="top">
 
-⚡ **Fun fact: Did you know that Google's first-ever tweet was "I'm feeling lucky"?**
+```python
+# profile.py — [YOUR_NAME]
 
-It perfectly encapsulates Google's ethos of innovation and curiosity-driven exploration. Similarly, I'm always eager to explore new ideas and technologies, constantly seeking out nerdy and interesting facts to inspire my work. Let's collaborate and create something truly extraordinary!
+class Engineer:
+    name       = "[YOUR_NAME]"
+    location   = "[YOUR_CITY, COUNTRY]"
+    role       = "Python · Backend · Full-Stack · AI"
 
-<br>
-<br>
-<br>
+    strengths  = [
+        "Scalable API & backend architecture",
+        "AI/ML integration into real products",
+        "End-to-end full-stack delivery",
+        "Ships clean, documented code",
+    ]
 
+    currently  = {
+        "building" : "AIM — AI Meeting Manager",
+        "studying" : "System Design & LLM APIs",
+        "open_to"  : "Backend / Full-Stack Roles 🚀",
+    }
 
+    def greet(self):
+        return "Let's build something that matters."
+```
 
-<h3 align="center">Welcome to My Project Repository</h3>
+</td>
+<td width="4%"></td>
+<td width="42%" valign="middle" align="center">
 
-<p align="center">
-  <em>Greetings and welcome to my meticulously curated project repository! Here, I am excited to present a diverse collection of innovative projects crafted with passion and precision. Whether you're a seasoned developer seeking inspiration or a curious enthusiast eager to explore new horizons, there's something here for everyone. Join me on this exhilarating journey of discovery and creativity!</em>
-</p><br>
+<img src="https://github-readme-stats.vercel.app/api?username=BigBang001&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=020510&title_color=00d4ff&text_color=8b9fbd&icon_color=8b5cf6&hide_title=true&rank_icon=percentile" height="150"/>
 
-<h3 align="center">Table of Contents</h3>
+<br/>
 
-- [Introduction](#introduction)
-- [Python Projects](#python-projects)
-  - [Simple Text Editor](#simple-text-editor)
-  - [ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control](#shlokmudra-bhagavad-gita-quiz-application-using-gesture-control)
-  - [Fake Image Detection using Multimodal Techniques](#fake-image-detection-using-multimodel-techniques)
-  - [MindTrack: Mind Health Tracking Application](#mindtrack-mind-health-tracking-application)
-  - [QuantumHabits: Personal Growth Through Consistent Action](#quantumhabits-personal-growth-through-consistent-action)
-  - [Interplanetary Dust Tracker](#interplanetary-dust-tracker)
-  - [Space Weather Dashboard](#space-weather-dashboard)
-- [C++ Projects](#c-projects)
-  - [Secure Contact Organizer](#secure-contact-organizer)
-  - [TaskMaster](#taskmaster)
-- [Java Project](#WeatherWise)
-  - [WeatherWise](#WeatherWise)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BigBang001&hide_border=true&background=020510&ring=00d4ff&fire=e879f9&currStreakLabel=00d4ff&sideLabels=8b9fbd&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=4b5563" height="130"/>
 
+</td>
+</tr>
+</table>
 
+<br/>
 
+---
 
-<h2 align="center">Introduction</h2>
+<!-- ── TECH STACK ─────────────────────────────────────────────────── -->
 
-<p align="justify">
-  <em>Welcome, dear visitors, to my realm of innovation and technology! In this vibrant repository, I invite you to explore a world where creativity knows no bounds. Each project is a labor of love, meticulously crafted to push the boundaries of what's possible. Join me as we embark on an exciting journey through the realms of Python and C++, where every line of code tells a story of ingenuity and passion.</em>
-</p>
-<br><br>
+<h3 align="center"><code>⟨ TECH STACK ⟩</code></h3>
 
+<div align="center">
 
-## Python Projects
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark&perline=4"/>
+<br/><sub><code>Languages</code></sub>
 
-### Simple Text Editor
+<br/><br/>
 
-<p align="justify">
-  <em>Revolutionize your text editing experience with my Simple Text Editor. Crafted with Python and Tkinter, this sleek and intuitive editor offers a seamless blend of functionality and style. With customizable themes and essential editing tools at your fingertips, the possibilities are endless. Let your creativity soar as you dive into the world of text manipulation with ease and elegance.</em>
-</p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,postgres,mongodb,redis&theme=dark&perline=6"/>
+<br/><sub><code>Backend & Databases</code></sub>
 
-**Key Features:**
-- Intuitive user interface with customizable themes
-- Essential text editing functionalities for effortless content creation
-- Seamless integration with font selection and alignment options
+<br/><br/>
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5"/>
+<br/><sub><code>Frontend</code></sub>
 
-### ShlokMudra: Bhagavad Gita Quiz Application using Gesture Control
+<br/><br/>
 
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark&perline=3"/>
+<br/><sub><code>AI · ML · Vision</code></sub>
 
-<p align="justify">
-  <em>Embark on an immersive journey through the Bhagavad Gita with ShlokMudra, my innovative quiz application powered by gesture control. Immerse yourself in the ancient wisdom of the Gita as you navigate through quiz questions with intuitive hand gestures. Experience learning like never before, with real-time feedback and seamless interaction.</em>
-</p>
+<br/><br/>
 
-**Key Features:**
-- Gesture-based controls for immersive interaction
-- Real-time feedback on quiz responses for enhanced engagement
-- Scalable design to accommodate a vast question bank
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure,gcp,vscode&theme=dark&perline=7"/>
+<br/><sub><code>DevOps · Cloud · Tools</code></sub>
 
+</div>
 
-### Fake Image Detection Using Multimodal Techniques 
+<br/>
 
+---
 
-<p align="justify">
-  <em>Discover the forefront of image authenticity verification with our Multimodal Fake Image Detection system. Designed to combat the rising challenge of manipulated visual content, this project leverages a sophisticated blend of machine learning and deep learning techniques. By analyzing image content, evaluating associated textual information, and scrutinizing metadata, our system offers a comprehensive approach to discerning between genuine and altered images. Experience a robust solution that not only enhances detection accuracy but also adapts seamlessly to diverse datasets and evolving manipulation techniques.</em>
-</p>
+<!-- ── SELECTED PROJECTS ──────────────────────────────────────────── -->
 
-**Key Features:**
-- Advanced multimodal approach combining image analysis, text evaluation, and metadata examination.
-- Seamless integration of machine learning models for precise detection of manipulated images.
-- Scalable design to handle diverse datasets and evolving image manipulation techniques.
+<h3 align="center"><code>⟨ SELECTED PROJECTS ⟩</code></h3>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 
-### MindTrack: Mental Health Tracking Application
+<tr>
+<td width="50%" valign="top">
 
-<p align="justify">
-  <em>Track your mental health effortlessly with MindTrack, a web application designed for users with ADHD and neuro-divergences. Leveraging AI and an intuitive interface, MindTrack simplifies daily mood and symptom monitoring to empower users with insightful data analysis and engagement.</em>
-</p>  
+**`⬡` AIM — AI Meeting Manager**
+> *Python · Django · React · NLP*
 
-#### Key Features
+Terminal + web AI assistant with **token-limited context memory**, undo/redo, prompt lifecycle management & automated discussion recaps — real production AI behavior.
 
-- Receive daily survey links via text message to track mood, symptoms, weight, sleep, and thoughts.  
-- Utilizes TensorFlow for personalized insights and trend recognition based on user inputs.  
-- Planned features include a homepage, user accounts, medication tracking, and a visual dashboard.  
-- Accessible interface tailored for ease of use, catering to diverse user needs.
+![backend](https://img.shields.io/badge/-backend-020510?style=flat-square&labelColor=020510&color=00d4ff&logoColor=00d4ff)
+![nlp](https://img.shields.io/badge/-nlp-020510?style=flat-square&color=8b5cf6)
+![ai](https://img.shields.io/badge/-ai-020510?style=flat-square&color=e879f9)
+![fullstack](https://img.shields.io/badge/-fullstack-020510?style=flat-square&color=00d4ff)
 
+</td>
+<td width="50%" valign="top">
 
-### QuantumHabits: Personal Growth Through Consistent Action
+**`⬡` Stock Analysis AI**
+> *React · TypeScript · Multi-Agent AI*
 
-<p align="justify">
- <em>QuantumHabits is a powerful tool for achieving personal growth through daily habits and incremental improvements. This web application integrates AI-driven insights with intuitive features to empower users in their journey towards self-improvement.</em>
-</p>
+Production stock intelligence with a **multi-agent architecture** — dedicated agents for ticker detection, news sentiment, trend analysis & NL-query commentary.
 
-**Key Features:**
-- Goal Setting and Tracking: Define and monitor goals effortlessly, with reminders to stay on track.
-- AI-Powered Recommendations: Utilizes decision tree models for tailored suggestions based on user habits and preferences.
-- Gamification Elements: Earn badges and rewards for completing milestones, making habit-building enjoyable and motivating.
-- Visualization Tools: Visualize progress with clear charts and graphs, enhancing accountability and motivation.
+![multi-agent](https://img.shields.io/badge/-multi--agent-020510?style=flat-square&color=8b5cf6)
+![typescript](https://img.shields.io/badge/-typescript-020510?style=flat-square&color=00d4ff)
+![fintech](https://img.shields.io/badge/-fintech-020510?style=flat-square&color=e879f9)
 
+</td>
+</tr>
 
-### Interplanetary Dust Tracker
+<tr>
+<td width="50%" valign="top">
 
-<p align="justify">
-  <em> It is a pioneering Python project designed to simulate and study the intricate dance of space dust as it navigates the vast reaches of our solar system.</em>
-</p>  
+**`⬡` MindTrack — Mental Health Tracker**
+> *Django · React · TensorFlow · PostgreSQL*
 
-**Key Features:**
-- Simulation Engine: Simulate the movement and collision dynamics of space dust particles.
-- Interactive Visuals: Visualize the paths of dust particles and their gravitational interactions with planets.
-- Custom Data Integration: Import real astronomical data and simulate different celestial conditions.
-- Predictive Analysis: Use data models to predict the behavior of space dust in hypothetical scenarios.
-- Real-Time Interaction: Engage with simulations and adjust variables on the fly to see how space dust reacts in new conditions.
-- Educational Mode: Learn about the science behind interplanetary dust through integrated guides and fun facts.
-  
+Full-stack wellness platform using **TensorFlow sentiment analysis** to surface mood trends from daily surveys, with reminders, timeline charts & AI insights.
 
+![django](https://img.shields.io/badge/-django-020510?style=flat-square&color=00d4ff)
+![tensorflow](https://img.shields.io/badge/-tensorflow-020510?style=flat-square&color=8b5cf6)
+![healthcare](https://img.shields.io/badge/-healthcare-020510?style=flat-square&color=e879f9)
 
-### Space Weather Dashboard
+</td>
+<td width="50%" valign="top">
 
-<p align="justify">
-  <em>It is a powerful, Python-powered application built to give you a real-time window into solar activity, from flares to geomagnetic storms. It’s your one-stop guide to the cosmos, designed for researchers, educators, and space enthusiasts alike.</em>
-</p>  
+**`⬡` Fake Image Detection — Multimodal AI**
+> *Python · CNN · Scikit-learn · OpenCV*
 
-#### Key Features
+Ensemble AI fusing **CNN (visual) + Logistic Regression (text) + Random Forest (metadata)** via Voting Classifier for robust multimodal authentication.
 
-- Live Solar Data Integration
-- Predictive Modeling with TensorFlow
-- Interactive Visualizations
-- Detailed Solar Image Analysis
-<br>
-<br>
+![cv](https://img.shields.io/badge/-computer--vision-020510?style=flat-square&color=e879f9)
+![ml](https://img.shields.io/badge/-ml-020510?style=flat-square&color=8b5cf6)
+![python](https://img.shields.io/badge/-python-020510?style=flat-square&color=00d4ff)
 
+</td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
 
-## C++ Projects
+**`⬡` Code Roast Club**
+> *React · TypeScript · OCR · GitHub API*
 
-### Secure Contact Organizer
+Developer tool that **roasts code via AI personas** (Linus Mode, Gen Z Intern, Boomer Coder). GitHub repo + image OCR pipeline. Share as text, image, or QR.
 
-<p align="justify">
-  <em>Step into the world of secure contact management with my Secure Contact Organizer, crafted using C++ and STL. Seamlessly manage your contacts while ensuring robust security features and customizable organization options. With encrypted authentication and a user-friendly interface, managing your contacts has never been safer or more convenient.</em>
-</p>
+![typescript](https://img.shields.io/badge/-typescript-020510?style=flat-square&color=00d4ff)
+![ocr](https://img.shields.io/badge/-ocr-020510?style=flat-square&color=8b5cf6)
+![dev-tools](https://img.shields.io/badge/-dev--tools-020510?style=flat-square&color=e879f9)
 
-**Key Features:**
-- Secure user authentication with advanced encryption techniques
-- Customizable grouping for efficient contact organization
-- Robust password recovery mechanism for seamless access
- 
+</td>
+<td width="50%" valign="top">
 
-### TaskMaster
-<p align="justify">
-  <em>Unleash your productivity prowess with TaskMaster, my ultimate task management system designed to elevate your efficiency to new heights. Seamlessly prioritize tasks, manage deadlines, and receive real-time notifications with unparalleled ease. With a user-friendly interface and robust features, TaskMaster empowers you to conquer your to-do list and achieve your goals with confidence.</em>
-</p>
+**`⬡` ShlokMudra — Gita Quiz App**
+> *Python · OpenCV · MediaPipe · Pygame*
 
-Key Features:
-- Intuitive user authentication for secure access
-- Flexible task management across various categories
-- Secure data handling with local file storage for enhanced privacy
-<br><br><br>
+Gesture-controlled quiz via **real-time hand tracking** (MediaPipe). AR certificate generation, performance tracking & audio feedback — ancient wisdom, modern CV.
 
+![opencv](https://img.shields.io/badge/-opencv-020510?style=flat-square&color=e879f9)
+![ar](https://img.shields.io/badge/-ar-020510?style=flat-square&color=8b5cf6)
+![edtech](https://img.shields.io/badge/-edtech-020510?style=flat-square&color=00d4ff)
 
+</td>
+</tr>
 
-### Java Project
+<tr>
+<td width="50%" valign="top">
 
-### WeatherWise
-<p align="justify">  
-  <em>Stay ahead of the game with the **Weather-Powered Smart To-Do List**, a dynamic task management solution tailored to your daily environment. Powered by real-time weather data and seamless Google Calendar integration, this innovative system helps you adapt to changing conditions while staying productive. From rain-ready reminders to sunny-day plans, this tool ensures you’re always prepared to tackle your day efficiently and effectively.</em>  
-</p>  
+**`⬡` QuantumHabits**
+> *Python · React · Decision Trees · Chart.js*
 
-**Key Features:**  
-- Weather-aware task recommendations for personalized planning  
-- Seamless Google Calendar synchronization for cross-device task tracking  
-- Lightweight, secure, and efficient—ideal for real-world usability  
-- Effortless API integration with OpenWeatherMap and Google Calendar  
-- Modular, extensible architecture for future enhancements  
+AI habit OS using **decision trees for personalised growth recommendations**. Gamified with badges, smart reminders & progress charts for compound change.
 
-<br><br><br>
+![ai](https://img.shields.io/badge/-ai-020510?style=flat-square&color=00d4ff)
+![productivity](https://img.shields.io/badge/-productivity-020510?style=flat-square&color=8b5cf6)
+![decision-trees](https://img.shields.io/badge/-decision--trees-020510?style=flat-square&color=e879f9)
 
-<p align="center">
-  <em>Join me on this thrilling journey of exploration and innovation as we dive into the fascinating world of technology together! Let's push the boundaries, break new ground, and make magic happen. Welcome aboard!</em>
-</p>
+</td>
+<td width="50%" valign="top">
+
+**`⬡` Secure Contact Organizer**
+> *C++ · OOP · Encryption · Custom DSA*
+
+Password-protected contacts system with **custom data structures**, encrypted auth, group-based organisation (Personal · Work · Family) & secure recovery.
+
+![cpp](https://img.shields.io/badge/-c++-020510?style=flat-square&color=e879f9)
+![dsa](https://img.shields.io/badge/-dsa-020510?style=flat-square&color=8b5cf6)
+![security](https://img.shields.io/badge/-security-020510?style=flat-square&color=00d4ff)
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+<!-- ── ACTIVITY ────────────────────────────────────────────────────── -->
+
+<h3 align="center"><code>⟨ ACTIVITY ⟩</code></h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BigBang001&bg_color=020510&color=00d4ff&line=8b5cf6&point=e879f9&area=true&area_color=041428&hide_border=true&custom_title=Contribution+Activity" width="97%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBang001&layout=compact&langs_count=7&hide_border=true&bg_color=020510&title_color=00d4ff&text_color=8b9fbd&hide_title=true" height="128"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ── SNAKE ───────────────────────────────────────────────────────── -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BigBang001/BigBang001/output/snake.svg" alt="contribution snake"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ── FOOTER ─────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00d4ff,40:8b5cf6,80:e879f9,100:020510&height=100&section=footer&text=Open+to+Opportunities&fontSize=17&fontColor=ffffff&animation=fadeIn&fontAlignY=54&desc=Backend+%E2%80%A2+Full-Stack+%E2%80%A2+AI+Roles+%E2%80%94+Let%27s+connect.&descColor=8b9fbd&descSize=12&descAlignY=76" width="100%"/>
+
+</div>
