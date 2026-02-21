@@ -79,7 +79,7 @@ class Developer:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap&theme=dark&perline=5"/>
 <br/><sub><code>Frontend</code></sub>
 
 <br/><br/>
