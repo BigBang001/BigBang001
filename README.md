@@ -27,7 +27,6 @@
 # ── OPERATOR IDENTIFICATION ─────────
 
 class Developer:
-    name       = "Ekam"
     role       = "Python · Backend · AI"
 
     strengths  = [
