@@ -104,38 +104,46 @@ class Developer:
 <tr>
 <td width="50%" valign="top">
 
-**`⬡` AIM — AI Meeting Manager**
-> *Python · Django · React · NLP*
+**`⬡` AHSE (Adaptive Human State Engine)**
+> *FastAPI · WebSockets · Multimodal AI · React*
 
-Terminal + web AI assistant with **token-limited context memory**, undo/redo, prompt lifecycle management & automated discussion recaps — real production AI behavior.
+Real-time multimodal inference platform with resilient live-state synchronization, combining behavioral analysis, computer vision, and sentiment inference through low-latency event-driven architecture and WebSocket-based communication.
 
-`#backend` `#nlp` `#ai` `#fullstack`
+`#fastapi` `#websockets` `#multimodal-ai` `#real-time-systems` `#react`
 
 </td>
 <td width="50%" valign="top">
 
-**`⬡` Stock Analysis AI**
-> *React · TypeScript · Multi-Agent AI*
+**`⬡` AIM — AI Meeting Manager**
+> *Python · Django · React · NLP*
 
-Production stock platform with a **multi-agent architecture** — ticker detection, news sentiment, trend analysis & NL-query AI commentary.
+Terminal and web-based AI meeting assistant with token-limited context memory, undo/redo workflows, prompt lifecycle management, and automated discussion recaps simulating production-style AI interactions.
 
-`#multi-agent` `#typescript` `#ai` `#fintech`
+`#backend` `#nlp` `#ai` `#fullstack`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**`⬡` MindTrack — Mental Health Tracker**
-> *Django · React · TensorFlow · PostgreSQL*
+**`⬡` Stock Analysis AI**
+> *React · TypeScript · Multi-Agent AI*
 
-Full-stack wellness platform using **TensorFlow sentiment analysis** to surface mood trends from surveys — automated reminders, charts & AI insights.
+Production-style stock intelligence platform using multi-agent workflows for ticker detection, news sentiment analysis, trend evaluation, and natural language AI-generated market commentary.
 
-`#django` `#tensorflow` `#healthcare` `#fullstack`
+`#multi-agent` `#typescript` `#ai` `#fintech`
 
 </td>
 <td width="50%" valign="top">
 
+**`⬡` MindTrack — Mental Health Tracker**
+> *Django · React · TensorFlow · PostgreSQL*
+
+Full-stack mental wellness platform using TensorFlow-powered sentiment analysis to identify mood trends through surveys, analytics dashboards, automated reminders, and AI-driven insights.
+
+`#django` `#tensorflow` `#healthcare` `#fullstack`
+
+</td>
 **`⬡` Fake Image Detection — Multimodal AI**
 > *Python · CNN · Scikit-learn · OpenCV*
 
