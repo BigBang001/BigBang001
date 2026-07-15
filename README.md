@@ -143,19 +143,6 @@ Full-stack mental wellness platform using TensorFlow-powered sentiment analysis 
 
 `#django` `#tensorflow` `#healthcare` `#fullstack`
 
-</td>
-**`⬡` Fake Image Detection — Multimodal AI**
-> *Python · CNN · Scikit-learn · OpenCV*
-
-Ensemble AI fusing **CNN + LR + Random Forest** via Voting Classifier for robust multimodal fake image authentication.
-
-`#computer-vision` `#ml` `#python` `#ensemble`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **`⬡` Code Roast Club**
 > *React · TypeScript · OCR · GitHub API*
 
